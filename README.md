@@ -85,3 +85,30 @@ Your knitted RMD file should not be one long chunk of R code. It should contain 
 
 ### Step Six - Document your Data (if you chose your own data set)
 The data set you submit (only if you chose your own) should include a text file, like those in the R documentation (e.g. ?diamonds) that describes the source of your data and an explanation of the variables in the data set (definition of any variables, units, levels of categorical variables, and the data generating process, such as how data was collected if possible).
+
+
+## Project Template RMD file
+Please download the [project template file](https://d17h27t6h515a5.cloudfront.net/topher/2017/February/58af99ac_projecttemplate/projecttemplate.rmd) to get started on your analysis. (Right-click or Ctrl+click and Save As... if it doesn't download.)
+
+### Formatting Notes
+We want you to submit a readable RMD file. To help you prepare your project, please look over the following notes.
+
+1. The knitted HTML output should be readable. Be sure to review your knitted HTML file and check that the code and plots appear correct.
+
+2. Comments for R code in a RMD or R-Markdown file are included inside of r blocks by using a hash or pound symbol.
+
+```r
+{r}
+library(ggplot2)
+# This is an example of a comment that is not actual code.
+```
+
+3. In a RMD or R-Markdown file, use of the hash or pound symbol (#) outside of r blocks of code creates an H1 header.
+*You won't see the hash symbol in front of the text above once you knit the HTML file. See [Markdown Syntax](http://daringfireball.net/projects/markdown/syntax) for additional help with Markdown formatting.* 
+
+4. Check that all your plots can be viewed and that they are sized appropriately for the output, which is the knitted HTML file.
+
+#### Supporting Materials
+* [Project Template (RMD)](https://d17h27t6h515a5.cloudfront.net/topher/2017/February/58af99ac_projecttemplate/projecttemplate.rmd)
+
+
