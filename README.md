@@ -112,3 +112,24 @@ library(ggplot2)
 * [Project Template (RMD)](https://d17h27t6h515a5.cloudfront.net/topher/2017/February/58af99ac_projecttemplate/projecttemplate.rmd)
 
 
+## Evaluation and Submission
+### Evaluation
+Use the [Project Rubric](https://review.udacity.com/#!/projects/3165188753/rubric) to review your project. If you are happy with your submission, then you are ready to submit! If you see room for improvement in **any** category in which you do not meet specifications, keep working!
+
+Your project will be evaluated by a Udacity reviewer according to the same [Project Rubric](https://review.udacity.com/#!/projects/3165188753/rubric). Your project must "meet specifications" or "exceed specifications" in each category in order for your submission to pass.
+
+### Submission
+Ready to submit your project? Go back to your Udacity Home, click on the project, and follow the instructions to submit!
+
+* You can either send us a GitHub link of the files or upload a compressed directory (zip file).
+* Inside the zip folder include a text file with a list of Web sites, books, forums, blog posts, GitHub repositories etc that you referred to or used in this submission (Add N/A if you did not use such resources).
+
+It can take us up to a week to grade the project, but in most cases it is much faster. You will receive an email when your submission has been reviewed.
+
+If you are having any problems submitting your project or wish to check on the status of your submission, please email us at dataanalyst-project@udacity.com.
+
+### What to include in your submission?
+1. The RMD file containing the analysis (final plots and summary, and reflection)
+2. the HTML file knitted from the RMD file using the knitr package
+3. the original data set and source if you used your own data rather than one recommended by Udacity (Note: do not submit a data set if you used one that Udacity recommended)
+4. A list of Web sites, books, forums, blog posts, github repositories, etc. that you referred to or used in creating your submission (add N/A if you did not use any such resources).
