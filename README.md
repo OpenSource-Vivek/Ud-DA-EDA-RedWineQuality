@@ -133,3 +133,20 @@ If you are having any problems submitting your project or wish to check on the s
 2. the HTML file knitted from the RMD file using the knitr package
 3. the original data set and source if you used your own data rather than one recommended by Udacity (Note: do not submit a data set if you used one that Udacity recommended)
 4. A list of Web sites, books, forums, blog posts, github repositories, etc. that you referred to or used in creating your submission (add N/A if you did not use any such resources).
+
+## Example Project
+Your final project will be an analysis in which you analyze the variables and relationships within a data set. Your **final project** should look similar to this [Example Project](https://s3.amazonaws.com/content.udacity-data.com/courses/ud651/diamondsExample_2016-05.html). It should follow the same structure with an **Analysis** section, a **Final Plots** section, and a **Reflection** section. A template for you to use with these sections has been provided in a previous section of the file and can also be found in the Instructor Notes.
+
+Take at least 10 minutes to review the example project to get a sense of what you will need to do before starting your project.
+
+### More Udacious Projects
+These projects go above and beyond the course material, and we hope they serve as inspiration to work with data that interests you and to ask interesting questions.
+
+[Climatology of Atlantic Hurricanes](https://s3.amazonaws.com/udacity-hosted-downloads/ud651/AtlanticHurricaneTracking.html) by Dean D. Churchill
+
+[Geography of American Musicians](https://s3.amazonaws.com/udacity-hosted-downloads/ud651/GeographyOfAmericanMusic.html) by Stefan Zapf
+
+Here is a link to the project template: [Project Template Link](https://d17h27t6h515a5.cloudfront.net/topher/2017/February/58af99ac_projecttemplate/projecttemplate.rmd)
+
+#### Supporting Materials
+* [Project Template (RMD)](https://d17h27t6h515a5.cloudfront.net/topher/2017/February/58af99ac_projecttemplate/projecttemplate.rmd)
