@@ -39,5 +39,4 @@ After completing the project, you will:
 ### Why is this Important to my Career?
 
 >"If you are looking for a career where your services will be in high demand, you should find something where you provide a scarce, complementary service to something that is getting ubiquitous and cheap. So what’s getting ubiquitous and cheap? Data. And what is complementary to data? Analysis"
-
 >— Hal Varian, UC Berkeley, Chief Economist at Google
